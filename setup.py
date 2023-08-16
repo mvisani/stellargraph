@@ -84,7 +84,7 @@ with open("stellargraph/version.py", "r") as fh:
 VERSION = version["__version__"]
 
 setuptools.setup(
-    name="stellargraph",
+    name="stellargraph_mvisani",
     version=VERSION,
     description=DESCRIPTION,
     author="Data61, CSIRO",
